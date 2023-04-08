@@ -744,4 +744,7 @@ function M.setup()
     end
 end
 
+M.hl = hl
+M.vim_highlights = vim_highlights
+
 return M
